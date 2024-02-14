@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vu.sadnap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vulhq) 
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
@@ -21,7 +21,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) -->.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=r1anl3&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=r1anl3&theme=vue-dark&hide_border=false)<br/>
