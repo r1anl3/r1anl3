@@ -21,7 +21,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) -->.
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) -->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=r1anl3&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=r1anl3&theme=vue-dark&hide_border=false)<br/>
